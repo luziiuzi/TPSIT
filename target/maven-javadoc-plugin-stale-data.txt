@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/raino/OneDrive/Documenti/NetBeansProjects/la_chatv2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/raino/OneDrive/Documenti/NetBeansProjects/la_chatv2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'la_chatv2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'la_chatv2 1.0-SNAPSHOT API'
+com.mycompany.la_chatv2
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\src\main\java = 1711362751967
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\allclasses-index.html = 1711363112328
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\allpackages-index.html = 1711363112331
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\copy.svg = 1711363112380
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\element-list = 1711363112188
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\help-doc.html = 1711363112371
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\index-all.html = 1711363112356
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\index.html = 1711363112364
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\link.svg = 1711363112382
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\member-search-index.js = 1711363112338
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\module-search-index.js = 1711363112333
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\overview-tree.html = 1711363112292
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\package-search-index.js = 1711363112335
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\script.js = 1711363112378
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\search-page.js = 1711363112390
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\search.html = 1711363112361
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\search.js = 1711363112387
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\serialized-form.html = 1711363112236
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\stylesheet.css = 1711363112376
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\tag-search-index.js = 1711363112340
+C:\Users\raino\OneDrive\Documenti\NetBeansProjects\la_chatv2\target\site\apidocs\type-search-index.js = 1711363112336

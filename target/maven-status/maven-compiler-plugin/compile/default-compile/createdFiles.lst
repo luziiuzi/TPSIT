@@ -1,0 +1,9 @@
+com\mycompany\la_chatv2\ThreadChatConnessioni.class
+com\mycompany\la_chatv2\PannelloChatClient.class
+com\mycompany\la_chatv2\ThreadGestioneServizioChat.class
+com\mycompany\la_chatv2\ChatServer.class
+com\mycompany\la_chatv2\MainChatServer.class
+com\mycompany\la_chatv2\ChatClient.class
+com\mycompany\la_chatv2\MainChatClient.class
+com\mycompany\la_chatv2\ThreadChatClient.class
+com\mycompany\la_chatv2\PannelloChatServer.class
